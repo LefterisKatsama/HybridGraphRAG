@@ -1,0 +1,63 @@
+[
+    {
+        "question": "Did Hank Schrader kill Tuco Salamanca? ",
+        "correct_answer": "Yes, Hank Schrader killed Tuco Salamanca",
+        "generated_answer": "Yes, Hank Schrader killed Tuco Salamanca.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9923490285873413
+    },
+    {
+        "question": "Did Skyler White support Walter\u03b2\u20ac\u2122s criminal activities from the start? ",
+        "correct_answer": "No, Skyler did not support Walter's criminal activites from the start",
+        "generated_answer": "No, Skyler White did not support Walter's criminal activities from the start.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9940974712371826
+    },
+    {
+        "question": "Did Gus Fring die at the hands of Hector Salamanca?",
+        "correct_answer": "Yes, Gus Fring died at the hands of Hector Salamanca",
+        "generated_answer": "Yes, Gus Fring died at the hands of Hector Salamanca.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9922217726707458
+    },
+    {
+        "question": "Is Mike alive at the end of the series?",
+        "correct_answer": "No, Mike is not alive at the end of the series",
+        "generated_answer": "Mike Ehrmantraut is killed by Walter White in the series finale of Breaking Bad.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.7212230563163757
+    },
+    {
+        "question": "Is Jesse Pinkman portrayed by Dean Norris?",
+        "correct_answer": "No, Jesse Pinkman is portrayed by Aaron Paul",
+        "generated_answer": "No, Jesse Pinkman is portrayed by Aaron Paul, not Dean Norris.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9919887185096741,
+        "final_score": 0.9383760094642639
+    }
+]

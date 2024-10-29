@@ -1,0 +1,63 @@
+[
+    {
+        "question": "Which actor plays the wife of Walter White?",
+        "correct_answer": "The wife of Walter White is portrayed by Anna Gunn",
+        "generated_answer": "The wife of Walter White is played by Anna Gunn.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9921858310699463
+    },
+    {
+        "question": "Who hired the character Bob Odenkirk portrays?",
+        "correct_answer": "Walter White hired the character Bob Odenkirk portrays",
+        "generated_answer": "Saul Goodman was hired by Walter White.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.887982189655304
+    },
+    {
+        "question": "Who killed the character that Walter White traded meth with?",
+        "correct_answer": "Hank Schrader killed the character that Walter White traded meth with",
+        "generated_answer": "The character that Walter White traded meth with, Tuco Salamanca, was killed by Hank.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.4193047881126404
+    },
+    {
+        "question": "Who killed more people Jack or Walter White?",
+        "correct_answer": "Walter White has killed more people than Jack",
+        "generated_answer": "Walter White killed more people than Jack.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9917196035385132
+    },
+    {
+        "question": "What is the nickname of the protagonist of Breaking Bad?",
+        "correct_answer": "The nickname of the protagonist of Breaking Bad is Heisenberg",
+        "generated_answer": "The nickname of the protagonist of Breaking Bad is \"Heisenberg\".",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9922310709953308,
+        "final_score": 0.8566846966743469
+    }
+]
