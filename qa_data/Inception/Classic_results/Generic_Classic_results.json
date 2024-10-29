@@ -1,0 +1,63 @@
+[
+    {
+        "question": "Who directed Inception?",
+        "correct_answer": "Inception was directed by Christopher Nolan",
+        "generated_answer": "The director of Inception is Christopher Nolan.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.996954083442688
+    },
+    {
+        "question": "Who plays the role of Dom Cobb in Inception?",
+        "correct_answer": "The role of Dom Cobb is played by Leonardo Dicaprio",
+        "generated_answer": "The role of Dom Cobb in Inception is played by Leonardo DiCaprio.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9931300282478333
+    },
+    {
+        "question": "What year was Inception released?",
+        "correct_answer": "Inception was released in 2010",
+        "generated_answer": "Inception was released in 2010.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9935035109519958
+    },
+    {
+        "question": "Who is the mentor of Ariadne?",
+        "correct_answer": "The mentor of Ariadne is Stephen Miles",
+        "generated_answer": "The mentor of Ariadne is Stephen Miles, who is also Cobb's father-in-law.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9890342950820923
+    },
+    {
+        "question": "Who hired Dom Cobb?",
+        "correct_answer": "Dom Cobb was hired by Saito",
+        "generated_answer": "Dom Cobb was hired by Saito, a Japanese businessman.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9937292337417603,
+        "final_score": 0.9932702302932739
+    }
+]

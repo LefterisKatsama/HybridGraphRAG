@@ -1,0 +1,63 @@
+[
+    {
+        "question": "Who is the brother of the character Emma Corrin portrays?",
+        "correct_answer": "The brother of the character Emma Corrin portrays is Charles Xavier",
+        "generated_answer": "The brother of the character Emma Corrin portrays, Cassandra Nova, is Charles Xavier.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.8957207202911377
+    },
+    {
+        "question": "Who plays the roommate of Wade Wilson?",
+        "correct_answer": "Leslie Uggams plays the roommate of Wade Wilson",
+        "generated_answer": "Leslie Uggams plays the roommate of Wade Wilson, who is Blind Al.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9819360375404358
+    },
+    {
+        "question": "Who plays the friend of the character Rob Delaney portrays?",
+        "correct_answer": "Ryan Reynolds plays the friend of the character Rob Delaney portrays",
+        "generated_answer": "The character Rob Delaney portrays, Peter Wisdom, is a friend of Wade Wilson, played by Ryan Reynolds.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.8317737579345703
+    },
+    {
+        "question": "Who plays the wife of Wade Wilson?",
+        "correct_answer": "The wife of Wade Wilson is played by Morena Baccarin",
+        "generated_answer": "Wade Wilson's former fianc\u00e9e, Vanessa Carlysle, is played by Morena Baccarin.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9922119379043579
+    },
+    {
+        "question": "What did the character that Hugh Jackman portrays destroy?",
+        "correct_answer": "The character that Hugh Jackman portrays destroyed the Time Ripper",
+        "generated_answer": "The character that Hugh Jackman portrays, Logan/Wolverine, destroyed the Time Ripper.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9939946532249451,
+        "final_score": 0.9391274213790893
+    }
+]

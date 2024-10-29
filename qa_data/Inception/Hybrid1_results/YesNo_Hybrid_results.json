@@ -1,0 +1,63 @@
+[
+    {
+        "question": "Is Blonde portrayed by Elliot Page?",
+        "correct_answer": "No, Blonde is portrayed by Talulah Riley",
+        "generated_answer": "No, Blonde is portrayed by Talulah Riley, not Elliot Page.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.994551956653595
+    },
+    {
+        "question": "Is Stephen Miles the father in law of Dom Cobb?",
+        "correct_answer": "Yes, Stephen Miles is the fater in law of Dom Cobb",
+        "generated_answer": "Yes, Stephen Miles is the father-in-law of Dom Cobb.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9910134673118591
+    },
+    {
+        "question": "Is Tokyo one of the places Inception was filmed in?",
+        "correct_answer": "Yes, Tokyo is one of the places where Inception was filmed",
+        "generated_answer": "Yes, Tokyo is one of the places Inception was filmed in.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9913193583488464
+    },
+    {
+        "question": "Is Dream Stealers based on Lucid Dreaming?",
+        "correct_answer": "Yes, Dream Stealers is based on Lucid Dreaming",
+        "generated_answer": "Yes, Dream Stealers is based on Lucid Dreaming.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9921371340751648
+    },
+    {
+        "question": "Does Saito target Ariadne",
+        "correct_answer": "No, Saito does not target Ariadne",
+        "generated_answer": "No, Saito does not target Ariadne. He targets Robert Fischer.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9868152737617493,
+        "final_score": 0.9911674380302429
+    }
+]

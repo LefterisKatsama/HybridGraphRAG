@@ -1,0 +1,32 @@
+[
+    {
+        "question": "Which actor plays the wife of Walter White?",
+        "correct_answer": "The wife of Walter White is portrayed by Anna Gunn",
+        "generated_answer": null,
+	"scores":[null,null,null,null]
+    },
+    {
+        "question": "Who hired the character Bob Odenkirk portrays?",
+        "correct_answer": "Walter White hired the character Bob Odenkirk portrays",
+        "generated_answer": null,
+	"scores":[null,null,null,null]
+    },
+    {
+        "question": "Who killed the character that Walter White traded meth with?",
+        "correct_answer": "Hank Schrader killed the character that Walter White traded meth with",
+        "generated_answer": null,
+	"scores":[null,null,null,null]
+    },
+    {
+        "question": "Who killed more people Jack or Walter White?",
+        "correct_answer": "Walter White has killed more people than Jack",
+        "generated_answer": null,
+	"scores":[null,null,null,null]
+    },
+    {
+        "question": "What is the nickname of the protagonist of Breaking Bad?",
+        "correct_answer": "The nickname of the protagonist of Breaking Bad is Heisenberg",
+        "generated_answer": null,
+	"scores":[null,null,null,null]
+    }
+]

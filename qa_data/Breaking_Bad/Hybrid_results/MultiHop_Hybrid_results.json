@@ -1,0 +1,35 @@
+[
+    {
+        "question": "Which actor plays the wife of Walter White?",
+        "correct_answer": "The wife of Walter White is portrayed by Anna Gunn",
+        "generated_answer": "The actor who plays the wife of Walter White is Anna Gunn.",
+        "score": 0.9963317513465881
+    },
+    {
+        "question": "Who hired the character Bob Odenkirk portrays?",
+        "correct_answer": "Walter White hired the character Bob Odenkirk portrays",
+        "generated_answer": "Bob Odenkirk's character, Saul Goodman, was hired by Walter White.",
+        "score": 0.9593673944473267
+    },
+    {
+        "question": "Who killed the character that Walter White traded meth with?",
+        "correct_answer": "Hank Schrader killed the character that Walter White traded meth with",
+        "generated_answer": "Hank Schrader killed the character that Walter White traded meth with.",
+        "score": 0.9925927519798279
+    },
+    {
+        "question": "Who killed more people Jack or Walter White?",
+        "correct_answer": "Walter White has killed more people than Jack",
+        "generated_answer": "Walter White killed more people than Jack.",
+        "score": 0.9947322607040405
+    },
+    {
+        "question": "Who plays the character that Hector Salamanca killed?",
+        "correct_answer": "Giancarlo Esposito plays the character that Hector Salamanca killed",
+        "generated_answer": "Giancarlo Esposito plays the character that Hector Salamanca killed.",
+        "score": 0.9939078092575073
+    },
+    {
+        "final_score": 0.987386393547057
+    }
+]

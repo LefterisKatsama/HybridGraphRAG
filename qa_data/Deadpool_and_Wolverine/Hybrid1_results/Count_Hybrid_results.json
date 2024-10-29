@@ -1,0 +1,33 @@
+[
+    {
+        "question": "How many actors are there named?",
+        "correct_answer": "There are 8 actors named",
+        "generated_answer": "There are two actors named: Ryan Reynolds and Hugh Jackman.",
+        "score": 0.0005410697194747627
+    },
+    {
+        "question": "How many people wrote the screenplay for Deadpool & Wolverine?",
+        "correct_answer": "5 people wrote the screenplay for Deadpool & Wolverine",
+        "generated_answer": "The screenplay for Deadpool & Wolverine was written by six people.",
+        "score": 0.010723520070314407
+    },
+    {
+        "question": "How many people and who did Cassandra Nova kill?",
+        "correct_answer": "Cassandra Nova killed 2 people, Pyro and Johnny Storm",
+        "generated_answer": "Cassandra Nova killed two people: Pyro and Johnny Storm.",
+        "score": 0.9959320425987244
+    },
+    {
+        "question": "How many achievements are there mentioned?",
+        "correct_answer": "There are 3 achievements mentioned, the 23rd-highest-grossing film of all time, the highest-grossing R-rated film of all time and the second-highest-grossing film of 2024",
+        "generated_answer": "There are three achievements mentioned: the film grossed over $1.29 billion worldwide, became the 23rd-highest-grossing film of all time, and is the highest-grossing R-rated film of all time.",
+        "score": 0.48538678884506226
+    },
+    {
+        "question": "In how many and which locations was the movie filmed in?",
+        "correct_answer": "The movie was filmed in 4 locations, Pinewood Studios, Norfolk, Los Angeles and Bovingdon Film Studios",
+        "generated_answer": "The movie was filmed in three locations: Pinewood Studios in England, Norfolk, and Los Angeles.",
+        "score": 0.002183467149734497,
+        "final_score": 0.2989533776766621
+    }
+]

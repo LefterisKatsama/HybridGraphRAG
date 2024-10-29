@@ -1,0 +1,63 @@
+[
+    {
+        "question": "When did Deadpool & Wolverine premiere?",
+        "correct_answer": "Deadpool & Wolverine premiered on July 22, 2024",
+        "generated_answer": "Deadpool & Wolverine premiered on July 22, 2024.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9851909279823303
+    },
+    {
+        "question": "Who is the director of the movie?",
+        "correct_answer": "The director of the movie is Shawn Levy",
+        "generated_answer": "The director of the movie is Shawn Levy.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9905797839164734
+    },
+    {
+        "question": "Who plays Cassandra Nova?",
+        "correct_answer": "Cassandra Nova is played by Emma Corrin",
+        "generated_answer": "Emma Corrin plays Cassandra Nova.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9966463446617126
+    },
+    {
+        "question": "Which were the filming locations of the movie?",
+        "correct_answer": "The movie was filmed at Pinewood Studios in England, with additional filming in Norfolk, Los Angeles, and at Bovingdon Film Studios",
+        "generated_answer": "The filming locations of the movie included Pinewood Studios in England, Norfolk, Los Angeles, and Bovingdon Film Studios.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9843757748603821
+    },
+    {
+        "question": "Which group did Wade Wilson desire to join?",
+        "correct_answer": "Wade Wilson wanted to join the Avengers",
+        "generated_answer": "Wade Wilson desired to join the Avengers.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.994788408279419,
+        "final_score": 0.9903162479400635
+    }
+]

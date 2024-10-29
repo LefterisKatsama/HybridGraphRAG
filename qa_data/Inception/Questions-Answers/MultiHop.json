@@ -1,0 +1,32 @@
+[
+    {
+        "question": "Which actor plays the wife of the character Saito hired?",
+        "correct_answer": "The wife of the character Saito hired, Dom Cobb, is played by Marion Cotillard",
+        "generated_answer": null,
+	"scores":[null,null,null,null]
+    },
+    {
+        "question": "Which actor plays the character that manipulated the heir to Business Empire?",
+        "correct_answer": "The actor who plays the character that manipulated the heir to the Business Empire is Tom Hardy",
+        "generated_answer": null,
+	"scores":[null,null,null,null]
+    },
+    {
+        "question": "Who impersonates the executive of Fischers' Company?",
+        "correct_answer": "Eames impersonates Peter Browning, the executive of Fischer's company",
+        "generated_answer": null,
+	"scores":[null,null,null,null]
+    },
+    {
+        "question": "Who replaced the character that Lukas Haas plays?",
+        "correct_answer": "Ariadne replaced the character that Lukas Haas plays",
+        "generated_answer": null,
+	"scores":[null,null,null,null]
+    },
+    {
+        "question": "Who plays the founder of Business Empire??",
+        "correct_answer": "The founder of the business empire is played by Pete Postlethwaite",
+        "generated_answer": null,
+	"scores":[null,null,null,null]
+    }
+]

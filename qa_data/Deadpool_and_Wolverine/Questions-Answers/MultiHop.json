@@ -1,0 +1,32 @@
+[
+    {
+        "question": "Who is the brother of the character Emma Corrin portrays?",
+        "correct_answer": "The brother of the character Emma Corrin portrays is Charles Xavier",
+        "generated_answer": null,
+	"scores":[null,null,null,null]
+    },
+    {
+        "question": "Who plays the roommate of Wade Wilson?",
+        "correct_answer": "Leslie Uggams plays the roommate of Wade Wilson",
+        "generated_answer": null,
+	"scores":[null,null,null,null]
+    },
+    {
+        "question": "Who plays the friend of the character Rob Delaney portrays?",
+        "correct_answer": "Ryan Reynolds plays the friend of the character Rob Delaney portrays",
+        "generated_answer": null,
+	"scores":[null,null,null,null]
+    },
+    {
+        "question": "Who plays the wife of Wade Wilson?",
+        "correct_answer": "The wife of Wade Wilson is played by Morena Baccarin",
+        "generated_answer": null,
+	"scores":[null,null,null,null]
+    },
+    {
+        "question": "What did the character that Hugh Jackman portrays destroy?",
+        "correct_answer": "The character that Hugh Jackman portrays destroyed the Time Ripper",
+        "generated_answer": null,
+	"scores":[null,null,null,null]
+    }
+]

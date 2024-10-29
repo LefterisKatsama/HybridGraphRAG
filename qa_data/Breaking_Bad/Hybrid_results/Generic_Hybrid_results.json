@@ -1,0 +1,35 @@
+[
+    {
+        "question": "Who created and produced Breaking Bad?",
+        "correct_answer": "Breaking Bad was created and produced by Vince Gilligan",
+        "generated_answer": "Breaking Bad was created and produced by Vince Gilligan.",
+        "score": 0.9896204471588135
+    },
+    {
+        "question": "Who plays the role of Walter White in Breaking Bad?",
+        "correct_answer": "The role of Walter White is played by Bryan Cranston",
+        "generated_answer": "Bryan Cranston plays the role of Walter White in Breaking Bad.",
+        "score": 0.9965620636940002
+    },
+    {
+        "question": "What year did Breaking Bad first premiere on AMC?",
+        "correct_answer": "Breaking Bad first premiered on AMC on January 20, 2008",
+        "generated_answer": "Breaking Bad first premiered on AMC in the year 2008.",
+        "score": 0.49939918518066406
+    },
+    {
+        "question": "What is the nickname Walter White adopts in the drug trade?",
+        "correct_answer": "Walter White adopts the nickname Heisenberg in the drug trade",
+        "generated_answer": "The nickname Walter White adopts in the drug trade is \"Heisenberg.\"",
+        "score": 0.9944926500320435
+    },
+    {
+        "question": "Which character introduces Jesse Pinkman to heroin?",
+        "correct_answer": "Jesse Pinkman is introduced to heroin by Jane Margolis",
+        "generated_answer": "Jane introduces Jesse Pinkman to heroin.",
+        "score": 0.489061176776886
+    },
+    {
+        "final_score": 0.7938271045684815
+    }
+]

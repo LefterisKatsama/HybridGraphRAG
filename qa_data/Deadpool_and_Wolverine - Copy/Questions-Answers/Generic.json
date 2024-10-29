@@ -1,0 +1,32 @@
+[
+    {
+        "question": "When did Deadpool & Wolverine premiere?",
+        "correct_answer": "Deadpool & Wolverine premiered on July 22, 2024",
+        "generated_answer": null,
+	"scores":[null,null,null,null]
+    },
+    {
+        "question": "Who is the director of the movie?",
+        "correct_answer": "The director of the movie is Shawn Levy",
+        "generated_answer": null,
+	"scores":[null,null,null,null]
+    },
+    {
+        "question": "Who plays Cassandra Nova?",
+        "correct_answer": "Cassandra Nova is played by Emma Corrin",
+        "generated_answer": null,
+	"scores":[null,null,null,null]
+    },
+    {
+        "question": "Which were the filming locations of the movie?",
+        "correct_answer": "The movie was filmed at Pinewood Studios in England, with additional filming in Norfolk, Los Angeles, and at Bovingdon Film Studios",
+        "generated_answer": null,
+	"scores":[null,null,null,null]
+    },
+    {
+        "question": "Which group did Wade Wilson desire to join?",
+        "correct_answer": "Wade Wilson wanted to join the Avengers",
+        "generated_answer": null,
+	"scores":[null,null,null,null]
+    }
+]

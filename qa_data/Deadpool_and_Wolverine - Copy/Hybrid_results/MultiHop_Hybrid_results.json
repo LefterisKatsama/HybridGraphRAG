@@ -1,0 +1,63 @@
+[
+    {
+        "question": "Who is the brother of the character Emma Corrin portrays?",
+        "correct_answer": "The brother of the character Emma Corrin portrays is Charles Xavier",
+        "generated_answer": "The brother of the character Emma Corrin portrays, Cassandra Nova, is Charles Xavier.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.8957207202911377
+    },
+    {
+        "question": "Who plays the roommate of Wade Wilson?",
+        "correct_answer": "Leslie Uggams plays the roommate of Wade Wilson",
+        "generated_answer": "Leslie Uggams plays the roommate of Wade Wilson, Blind Al.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9843714833259583
+    },
+    {
+        "question": "Who plays the friend of the character Rob Delaney portrays?",
+        "correct_answer": "Ryan Reynolds plays the friend of the character Rob Delaney portrays",
+        "generated_answer": "Rob Delaney portrays Peter Wisdom, who is a car salesman and a member of Wade's X-Force team.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.00025792766246013343
+    },
+    {
+        "question": "Who plays the wife of Wade Wilson?",
+        "correct_answer": "The wife of Wade Wilson is played by Morena Baccarin",
+        "generated_answer": "Morena Baccarin plays Vanessa Carlysle, Wade Wilson's former fianc\u00e9e.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9951347708702087
+    },
+    {
+        "question": "What did the character that Hugh Jackman portrays destroy?",
+        "correct_answer": "The character that Hugh Jackman portrays destroyed the Time Ripper",
+        "generated_answer": "The character that Hugh Jackman portrays, Logan, destroyed the Time Ripper.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9910305738449097,
+        "final_score": 0.7733030951989349
+    }
+]

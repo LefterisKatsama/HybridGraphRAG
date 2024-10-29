@@ -1,0 +1,32 @@
+[
+    {
+        "question": "Did Hank Schrader kill Tuco Salamanca? ",
+        "correct_answer": "Yes, Hank Schrader killed Tuco Salamanca",
+        "generated_answer": null,
+	"scores":[null,null,null,null]
+    },
+    {
+        "question": "Did Skyler White support Walter’s criminal activities from the start? ",
+        "correct_answer": "No, Skyler did not support Walter's criminal activites from the start",
+        "generated_answer": null,
+	"scores":[null,null,null,null]
+    },
+    {
+        "question": "Did Gus Fring die at the hands of Hector Salamanca?",
+        "correct_answer": "Yes, Gus Fring died at the hands of Hector Salamanca",
+        "generated_answer": null,
+	"scores":[null,null,null,null]
+    },
+    {
+        "question": "Is Mike alive at the end of the series?",
+        "correct_answer": "No, Mike is not alive at the end of the series",
+        "generated_answer": null,
+	"scores":[null,null,null,null]
+    },
+    {
+        "question": "Is Jesse Pinkman portrayed by Dean Norris?",
+        "correct_answer": "No, Jesse Pinkman is portrayed by Aaron Paul",
+        "generated_answer": null,
+	"scores":[null,null,null,null]
+    }
+]

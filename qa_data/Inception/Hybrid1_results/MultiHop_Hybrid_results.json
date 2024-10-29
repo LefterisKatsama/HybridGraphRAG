@@ -1,0 +1,63 @@
+[
+    {
+        "question": "Which actor plays the wife of the character Saito hired?",
+        "correct_answer": "The wife of the character Saito hired, Dom Cobb, is played by Marion Cotillard",
+        "generated_answer": "The actor who plays the wife of the character Saito hired is Marion Cotillard, who portrays Mal.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.2720887064933777
+    },
+    {
+        "question": "Which actor plays the character that manipulated the heir to Business Empire?",
+        "correct_answer": "The actor who plays the character that manipulated the heir to the Business Empire is Tom Hardy",
+        "generated_answer": "The actor who plays the character that manipulated the heir to the Business Empire is Tom Hardy, who portrays Eames.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9844404458999634
+    },
+    {
+        "question": "Who impersonates the executive of Fischers' Company?",
+        "correct_answer": "Eames impersonates Peter Browning, the executive of Fischer's company",
+        "generated_answer": "Eames impersonates Peter Browning, the executive of Fischers' Company.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.44246602058410645
+    },
+    {
+        "question": "Who replaced the character that Lukas Haas plays?",
+        "correct_answer": "Ariadne replaced the character that Lukas Haas plays",
+        "generated_answer": "Ariadne replaced the character that Lukas Haas plays, Nash.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9826902151107788
+    },
+    {
+        "question": "Who plays the founder of Business Empire??",
+        "correct_answer": "The founder of the business empire is played by Pete Postlethwaite",
+        "generated_answer": "The founder of the business empire, Maurice Fischer, is played by Pete Postlethwaite.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9836099147796631,
+        "final_score": 0.7330590605735778
+    }
+]

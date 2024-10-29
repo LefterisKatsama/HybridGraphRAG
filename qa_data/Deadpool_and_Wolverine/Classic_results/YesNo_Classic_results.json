@@ -1,0 +1,63 @@
+[
+    {
+        "question": "Was Mr. Paradox arrested by Blind Al?",
+        "correct_answer": "No, Mr. Paradox was arrested by Hunter B-15",
+        "generated_answer": "No, Mr. Paradox was arrested by the TVA's Hunter B-15, not by Blind Al.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9953704476356506
+    },
+    {
+        "question": "Did Cassandra Nova kill Pyro?",
+        "correct_answer": "Yes, Cassandra Nova killed Pyro",
+        "generated_answer": "Yes, Cassandra Nova killed Pyro.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9941496849060059
+    },
+    {
+        "question": "Was Emma Corrin inspired by James Mcavoy?",
+        "correct_answer": "Yes, Emma Corrin was inspired by James Mcavoy",
+        "generated_answer": "Emma Corrin was not directly inspired by James McAvoy; instead, they wanted to pay homage to both Patrick Stewart and McAvoy's performances as Xavier in previous X-Men films.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.30088865756988525
+    },
+    {
+        "question": "Was Mr. Paradox portrayed by Leonardo Dicaprio?",
+        "correct_answer": "No, Mr. Paradox was portrayed by Matthew Macfadyen",
+        "generated_answer": "No, Mr. Paradox was portrayed by Matthew Macfadyen, not Leonardo DiCaprio.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9797272682189941
+    },
+    {
+        "question": "Was Deadpool & Wolverine written by Quentin Tarantino",
+        "correct_answer": "No, Deadpool & Wolverine was not written by Quentin Tarantino",
+        "generated_answer": "No, Deadpool & Wolverine was not written by Quentin Tarantino. It was written by Shawn Levy, Ryan Reynolds, Rhett Reese, Paul Wernick, and Zeb Wells.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9895051121711731,
+        "final_score": 0.8519282341003418
+    }
+]

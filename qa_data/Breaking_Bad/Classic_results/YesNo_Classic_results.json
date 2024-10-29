@@ -1,0 +1,63 @@
+[
+    {
+        "question": "Did Hank Schrader kill Tuco Salamanca? ",
+        "correct_answer": "Yes, Hank Schrader killed Tuco Salamanca",
+        "generated_answer": "Hank Schrader did not kill Tuco Salamanca.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.002207493409514427
+    },
+    {
+        "question": "Did Skyler White support Walter\u03b2\u20ac\u2122s criminal activities from the start? ",
+        "correct_answer": "No, Skyler did not support Walter's criminal activites from the start",
+        "generated_answer": "Skyler White did not support Walter's criminal activities from the start.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9813365340232849
+    },
+    {
+        "question": "Did Gus Fring die at the hands of Hector Salamanca?",
+        "correct_answer": "Yes, Gus Fring died at the hands of Hector Salamanca",
+        "generated_answer": "Yes, Gus Fring died at the hands of Hector Salamanca.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9922217726707458
+    },
+    {
+        "question": "Is Mike alive at the end of the series?",
+        "correct_answer": "No, Mike is not alive at the end of the series",
+        "generated_answer": "No, Mike is not alive at the end of the series.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.9937310814857483
+    },
+    {
+        "question": "Is Jesse Pinkman portrayed by Dean Norris?",
+        "correct_answer": "No, Jesse Pinkman is portrayed by Aaron Paul",
+        "generated_answer": "No, Jesse Pinkman is not portrayed by Dean Norris. Jesse Pinkman is portrayed by Aaron Paul.",
+        "scores": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "score": 0.8302227258682251,
+        "final_score": 0.7599439214915037
+    }
+]

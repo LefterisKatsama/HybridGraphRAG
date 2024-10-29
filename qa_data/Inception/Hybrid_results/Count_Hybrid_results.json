@@ -1,0 +1,33 @@
+[
+    {
+        "question": "How many people are on Dom Cobb's team?",
+        "correct_answer": "There are 5 people on Dom Cobb's team",
+        "generated_answer": "Dom Cobb's team consists of four people.",
+        "score": 0.012761634774506092
+    },
+    {
+        "question": "How many of the movies that Cristopher Nolan worked on are mentioned?",
+        "correct_answer": "There are 3 movies mentioned that Christopher Nolan worked on",
+        "generated_answer": "The context mentions that Christopher Nolan worked on three movies: \"Batman Begins,\" \"The Prestige,\" and \"The Dark Knight.\" Therefore, three movies are mentioned.",
+        "score": 0.9910756349563599
+    },
+    {
+        "question": "How many people does Mal kill?",
+        "correct_answer": "Mal kills 1 person",
+        "generated_answer": "Mal kills one person, Robert.",
+        "score": 0.9885249733924866
+    },
+    {
+        "question": "How many actors are there named??",
+        "correct_answer": "There are 13 actors named",
+        "generated_answer": "There are 13 actors named.",
+        "score": 0.9868878722190857
+    },
+    {
+        "question": "How many Oscars did Inception win?",
+        "correct_answer": "Inception won 4 Oscars",
+        "generated_answer": "Inception won four Oscars.",
+        "score": 0.9935470223426819,
+        "final_score": 0.794559427537024
+    }
+]

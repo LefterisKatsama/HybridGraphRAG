@@ -1,0 +1,32 @@
+[
+    {
+        "question": "How many seasons does Breaking Bad have?",
+        "correct_answer": "Breaking Bad has 5 seasons",
+        "generated_answer": null,
+	    "score": null
+    },
+    {
+        "question": "How many actors are there mentioned?",
+        "correct_answer": "There are 11 actors mentioned",
+        "generated_answer": null,
+        "score": null
+    },
+    {
+        "question": "How many awards did Breaking Bad win?",
+        "correct_answer": "Breaking Bad won 34 awards",
+        "generated_answer": null,
+        "score": null
+    },
+    {
+        "question": "How many Primetime Emmy Awards did Bryan Cranston win for his role as Walter White?",
+        "correct_answer": "Bryan Cranston won a total of four Primetime Emmy Awards for his role as Walter White in Breaking Bad",
+        "generated_answer": null,
+        "score": null
+    },
+    {
+        "question": "How many characters did Jack kill?",
+        "correct_answer": "Jack killed 2 characters",
+        "generated_answer": null,
+        "score": null
+    }
+]
